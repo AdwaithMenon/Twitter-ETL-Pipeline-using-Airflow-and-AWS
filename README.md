@@ -2,8 +2,7 @@
 
 ## **Project Summary**
 
-
-
+![image](https://user-images.githubusercontent.com/70052374/226977790-69fad2af-db9d-496c-b5c1-b74d022fc984.png)
 
 
 a) **Data Collection phase**: Tweets associated with a Twitter account were extracted using Python and the 'snscrape' package.
