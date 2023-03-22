@@ -5,6 +5,7 @@
 
 
 
+
 a) **Data Collection phase**: Tweets associated with a Twitter account were extracted using Python and the 'snscrape' package.
 
 b) **Apache Airflow Setup phase**: An EC2 instance was set up on Amazon Web Services. Apache Airflow was installed on the EC2 instance. The necessary packages were downloaded during the setup.
